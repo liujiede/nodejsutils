@@ -1,5 +1,5 @@
 {
-  "name": "nodejsutils",
+  "name": "@jjwblie/utils",
   "version": "1.0.0",
   "description": "nodejs-utils",
   "main": "index.js",
