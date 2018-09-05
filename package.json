@@ -1,0 +1,34 @@
+{
+  "name": "nodejsutils",
+  "version": "1.0.0",
+  "description": "nodejs-utils",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liujiede/nodejsutils.git"
+  },
+  "keywords": [
+    "node tools",
+    "node utils",
+    "nodetools",
+    "nodeutils",
+    "nodejstools",
+    "nodejsutils"
+  ],
+  "author": "jjwblie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liujiede/nodejsutils/issues"
+  },
+  "homepage": "https://github.com/liujiede/nodejsutils#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
