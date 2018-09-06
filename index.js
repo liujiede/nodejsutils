@@ -1,6 +1,6 @@
 const $ = require('./utils/$');
 const getHash = require('./utils/getHash');
-const getRoot = require('./utils/getRoot');
+const getRootByFile = require('./utils/getRootByFile');
 const http = require('./utils/http');
 const isContains = require('./utils/isContains');
 const mkdir = require('./utils/mkdir');
@@ -11,7 +11,7 @@ const promisify = require('./utils/promisify');
 module.exports = {
     $,
     getHash,
-    getRoot,
+    getRootByFile,
     http,
     isContains,
     mkdir,
